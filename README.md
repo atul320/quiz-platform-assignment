@@ -32,8 +32,8 @@ Before you begin, make sure you have the following installed:
 ### **Steps to Run Locally**
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/yourusername/interactive-quiz-platform.git
-   cd interactive-quiz-platform
+   git clone https://github.com/atul320/quiz-platform-assignment.git
+   cd quiz-platform-assignment
    ```
 
 2. **Install dependencies:**
@@ -61,7 +61,7 @@ We’ve deployed the app so you can access it anytime:
 
 ## **📂 Project Structure**
 ```
-interactive-quiz-platform/
+quiz-platform-assignment/
 │── src/
 │   ├── components/
 │   │   ├── Timer.js
