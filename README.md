@@ -57,7 +57,7 @@ Before you begin, make sure you have the following installed:
 
 ## **🌍 Try it Live!**
 We’ve deployed the app so you can access it anytime:
-🔗 [Click here to play!]([https://your-deployment-link.com](https://quiz-platform-assignment.vercel.app/))
+🔗 [Click here to play!](https://quiz-platform-assignment.vercel.app/)
 
 ## **📂 Project Structure**
 ```
